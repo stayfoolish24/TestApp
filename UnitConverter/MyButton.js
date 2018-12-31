@@ -14,7 +14,6 @@ class MyButton extends Component {
       </View>
     )
   }
-
   style = StyleSheet.create({
     button: { padding: 12, backgroundColor: '#999999' },
     text: { textAlign: 'center', color: '#ffffff' }
